@@ -1,0 +1,5 @@
+# Ignore paths to other WP theme folders
+index.php
+twentyten/*
+twentyeleven/*
+twentytwelve/*
