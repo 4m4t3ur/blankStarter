@@ -5,14 +5,14 @@ A blank WordPress theme for kickstarting a kickass design.
 It's good if You like to start your themes from scratch.
 
 Features:
-1. HTML5 header.\n
-2. minimum amount of files.\n
-3. minimum amount of markup in the themes.\n
-4. Eric Meyers CSS reset.\n
-5. enables ( enques ) jQuery\n
-6. adds html5shiv for IE HTML5 support\n
-7. blank header, footer, page, post, post listing and custom template files.\n
-8. child / parent theme structure \n
+1. HTML5 header.
+2. minimum amount of files.
+3. minimum amount of markup in the themes.
+4. Eric Meyers CSS reset.
+5. enables ( enques ) jQuery
+6. adds html5shiv for IE HTML5 support
+7. blank header, footer, page, post, post listing and custom template files.
+8. child / parent theme structure 
 
 /* Installation */
 Install as any other Wordpress theme:
