@@ -1,7 +1,7 @@
 /*
 Theme Name: Martin.ee theme
 Theme URI:  http://github.com/4m4t3ur
-Description: childTheme description.
+Description: repsonsive, minimal, kick-ass example on using blankStarter for WP themeing.
 Version: 0.1 
 Author: 4m4t3ur
 Tags: light, white, one-column
@@ -9,8 +9,5 @@ Template: blankStarter
 */
 
 /* 
-GENERAL NOTICE
-css/styles.css is a better location for style info.
-This file is here because Wordpress uses it to get the theme info.
-Nevertheless - styles added to this file will also work.
+The rest of the css is in the css folder
 */

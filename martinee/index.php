@@ -9,7 +9,8 @@ get_header(); ?>
   <h1><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
   
   <div class="printedContent">
-    <?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'twentytwelve' ) ); ?>
+    <?php // the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'twentytwelve' ) ); ?>
+    <?php the_excerpt(); ?>
   </div>
     
 <?php endwhile; else: ?>
