@@ -3,6 +3,7 @@ blankStarter
 
 A blank WordPress theme for kickstarting a kickass design.
 It's good if You like to start your themes from scratch.
+It's also good if it's a long term project = you have to come back to the files over and over.
 
 Features:
 1. HTML5 header.
@@ -14,9 +15,14 @@ Features:
 7. blank header, footer, page, post, post listing and custom template files.
 8. child / parent theme structure 
 
+/* Included */
+/blankStarter folder - main files for parent folder.
+/childTheme - main files for a child theme.
+/martinee - example theme made with blankStarer. Check it out @ www.martin.ee
+
 /* Installation */
 Install as any other Wordpress theme:
-1) Place both folders ( "blankStarter" and "childTheme" ) to wp-content/themes.
+1) Place the folders ( "blankStarter", "childTheme" and "martinee" ) to wp-content/themes.
 2) enable childTheme theme in admin.
 
 Rename theme name at childTheme/style.css
