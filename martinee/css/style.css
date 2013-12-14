@@ -18,8 +18,12 @@ a {
 	text-decoration: none;
 }
 
-strong {
+strong, b {
 	font-weight: bold;
+}
+
+em, i {
+	font-style:italic;
 }
 
 .printedContent {
