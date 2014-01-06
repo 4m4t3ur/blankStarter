@@ -12,6 +12,7 @@ p { margin-bottom: 15px; }
 h1 {
 	font-size: 30pt;
 	margin-bottom: 15px;
+	line-height: 1em;
 }
 
 a {
@@ -59,4 +60,12 @@ li.page_item {
 #mainMenu>li {
 	display: inline;
 	margin-right: 25px;
+}
+
+.wp-caption-text {
+	color: white;
+	background: black;
+	margin-top: -7px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
